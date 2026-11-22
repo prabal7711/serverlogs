@@ -5,7 +5,7 @@ position=int(sys.argv[2])
 
 with open(filename) as f:
 	lines = f.readlines()
-print("Total lines:", len(lines))
+print("Total lines:", len(linesgjbnvigunbviurfgnbviur)
 
 counts = Counter()
 for line in lines:
